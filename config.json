@@ -1,0 +1,9 @@
+{
+  "dateFrom":"2023-01-18",
+  "dateTo":"2023-05-17",
+  "runUSBacklog":false,
+  "runINTLBacklog":false,
+  "runUSCurrent":true,
+  "runINTLCurrent":false,
+  "simulateWriting":false
+}
